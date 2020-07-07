@@ -1,0 +1,82 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/mainscreenpage/logo.png</file>
+        <file>resources/toppanel/location.png</file>
+        <file>resources/toppanel/back.png</file>
+        <file>resources/toppanel/yaxis.png</file>
+        <file>resources/bottompanel/closeTheDoor.png</file>
+        <file>resources/bottompanel/depositAndFetch.png</file>
+        <file>resources/bottompanel/depositAndFetchStatus.png</file>
+        <file>resources/bottompanel/inputMessageCode.png</file>
+        <file>resources/bottompanel/line.png</file>
+        <file>resources/bottompanel/qrcode.png</file>
+        <file>resources/bottompanel/validationInformation.png</file>
+        <file>resources/mainscreenpage/bg.png</file>
+        <file>resources/mainscreenpage/fangkuang.png</file>
+        <file>resources/bottompanel/closeTheDoor-red.png</file>
+        <file>resources/bottompanel/depositAndFetch-red.png</file>
+        <file>resources/bottompanel/depositAndFetchStatus-red.png</file>
+        <file>resources/bottompanel/inputMessageCode-red.png</file>
+        <file>resources/bottompanel/validationInformation-red.png</file>
+        <file>resources/toppanel/juxing.png</file>
+        <file>resources/toppanel/logo.png</file>
+        <file>resources/mainscreenpage/BJ.png</file>
+        <file>resources/mainfunctionpage/Icon-button cunwu.png</file>
+        <file>resources/mainfunctionpage/Icon-button-quwu.png</file>
+        <file>resources/recogfacepage/Icon button-renlianyanzheng.png</file>
+        <file>resources/recogfacesuccess/Icon button-cuowu.png</file>
+        <file>resources/recogfacesuccess/Icon button-xinxi.png</file>
+        <file>resources/recogfacesuccess/Icon button-xinxicuo.png</file>
+        <file>resources/recogfacesuccess/Icon button-zhengque.png</file>
+        <file>resources/recogfacesuccess/Icon-juxing.png</file>
+        <file>resources/recogfacesuccess/Icon-quanquan.png</file>
+        <file>resources/recogfacesuccess/Icon-zhengzaisaomiao.png</file>
+        <file>resources/recogfacesuccess/Icon-zhuangtai.png</file>
+        <file>resources/recogfacesuccess/Icon-zhuangtai2.png</file>
+        <file>resources/popuppage/Icon-cun.png</file>
+        <file>resources/popuppage/Icon-moyang.png</file>
+        <file>resources/popuppage/Icon-zhinenggui.png</file>
+        <file>resources/popuppage/Icon button-qu.png</file>
+        <file>resources/popuppage/Icon button-qu1.png</file>
+        <file>resources/popuppage/Icon button-queding.png</file>
+        <file>resources/recogfacesuccess/Icon-yanzhengchenggong.png</file>
+        <file>resources/photo.jpg</file>
+        <file>resources/keyboardimages/Icon button-0.png</file>
+        <file>resources/keyboardimages/Icon button--0.png</file>
+        <file>resources/keyboardimages/Icon button-1.png</file>
+        <file>resources/keyboardimages/Icon button--1.png</file>
+        <file>resources/keyboardimages/Icon button-2.png</file>
+        <file>resources/keyboardimages/Icon button--2.png</file>
+        <file>resources/keyboardimages/Icon button-3.png</file>
+        <file>resources/keyboardimages/Icon button--3.png</file>
+        <file>resources/keyboardimages/Icon button-4.png</file>
+        <file>resources/keyboardimages/Icon button--4.png</file>
+        <file>resources/keyboardimages/Icon button-5.png</file>
+        <file>resources/keyboardimages/Icon button--5.png</file>
+        <file>resources/keyboardimages/Icon button-6.png</file>
+        <file>resources/keyboardimages/Icon button--6.png</file>
+        <file>resources/keyboardimages/Icon button-7.png</file>
+        <file>resources/keyboardimages/Icon button--7.png</file>
+        <file>resources/keyboardimages/Icon button-8.png</file>
+        <file>resources/keyboardimages/Icon button--8.png</file>
+        <file>resources/keyboardimages/Icon button-9.png</file>
+        <file>resources/keyboardimages/Icon button--9.png</file>
+        <file>resources/keyboardimages/Icon button-tuige.png</file>
+        <file>resources/keyboardimages/Icon-xiaogangg.png</file>
+        <file>resources/recogfacefail/Icon button-cunwu.png</file>
+        <file>resources/recogfacefail/Icon button-linshilikai.png</file>
+        <file>resources/recogfacefail/Icon button-linshilikai1.png</file>
+        <file>resources/recogfacefail/Icon button-queding.png</file>
+        <file>resources/recogfacefail/Icon button-shouye.png</file>
+        <file>resources/recogfacefail/Icon button-shouye2.png</file>
+        <file>resources/recogfacefail/Icon button-yanzheng.png</file>
+        <file>resources/recogfacefail/Icon-shez.png</file>
+        <file>resources/black.jpg</file>
+        <file>resources/personinfoerror/Icon button-shouye.png</file>
+        <file>resources/personinfoerror/Icon-guanli.png</file>
+        <file>resources/recogfaceresultquwu/Icon button-qu.png</file>
+        <file>resources/recogfaceresultquwu/Icon button-qu1.png</file>
+        <file>resources/recogfaceresultquwu/Icon button-queding.png</file>
+        <file>resources/recogfaceresultquwu/Icon button-quwu.png</file>
+    </qresource>
+</RCC>

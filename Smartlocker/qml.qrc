@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>MainScreen.qml</file>
+        <file>MainFunction.qml</file>
+        <file>TopPanel/TopPanel.qml</file>
+        <file>BottomPanel/BottomPanel.qml</file>
+        <file>BottomPanel/IconWithText.qml</file>
+        <file>ChooseButton.qml</file>
+        <file>RecogTypeChosePage.qml</file>
+        <file>RecogFacePage.qml</file>
+        <file>RecogResultPage.qml</file>
+        <file>PopupPages/OpenthedoorPopup.qml</file>
+        <file>PopupPages/DoorOpened.qml</file>
+        <file>PopupPages/ERRConnectToModifyInfo.qml</file>
+        <file>PopupPages/ERRfacerecogFail.qml</file>
+        <file>PopupPages/ERRrecogfaceThreeTimes.qml</file>
+        <file>EnterPasswdPage.qml</file>
+        <file>PopupPages/ERRinputlastphonenumber.qml</file>
+        <file>TempsavePage.qml</file>
+        <file>TempsavePage2.qml</file>
+        <file>PopupPages/ERRpersoninfo.qml</file>
+        <file>RecogResultQuwuPage.qml</file>
+        <file>PopupPages/ERRfacerecogquwufail.qml</file>
+    </qresource>
+</RCC>
