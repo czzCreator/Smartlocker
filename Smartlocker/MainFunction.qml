@@ -10,17 +10,18 @@ import "./BottomPanel"
 Window {
     id: mainfunctionWindow
     visible: true
-    visibility:"Maximized"
-    width: 382
-    height: 500
     title: qsTr("咚咚智能柜1")
-    //flags: Qt.FramelessWindowHint
     color: "white"
 
     minimumWidth: 382
     minimumHeight: 500
-    maximumWidth: 382
-    maximumHeight: 500
+    //maximumWidth: 382
+    //maximumHeight: 500
+
+    //flags: Qt.FramelessWindowHint
+    //visibility:"Maximized"        //这个属性自动让窗口默认扩到  maximumWidth  maximumHeight 定义的最大
+    width: $fullScreen? Screen.desktopAvailableWidth:382
+    height: $fullScreen? Screen.desktopAvailableHeight:500
 
     //背景图片
     Image {
